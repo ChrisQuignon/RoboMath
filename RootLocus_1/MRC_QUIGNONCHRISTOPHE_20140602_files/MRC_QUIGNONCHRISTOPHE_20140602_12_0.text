@@ -1,0 +1,6 @@
+    -t⋅re(a)  -ⅈ⋅t⋅im(a)             
+K₁⋅ℯ        ⋅ℯ          ⋅Heaviside(t)
+    -t⋅re(b)  -ⅈ⋅t⋅im(b)             
+K₂⋅ℯ        ⋅ℯ          ⋅Heaviside(t)
+    -t⋅re(c)  -ⅈ⋅t⋅im(c)             
+K₃⋅ℯ        ⋅ℯ          ⋅Heaviside(t)
